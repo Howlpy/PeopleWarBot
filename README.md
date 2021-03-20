@@ -1,0 +1,2 @@
+# PeopleWarBot
+Twitter war bot
